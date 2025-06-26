@@ -1,0 +1,40 @@
+{
+  "name": "@0xobedient/dexscreener-sdk",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "solana",
+    "blockchain",
+    "web3",
+    "memecoin",
+    "dexscreener"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xobedient/dexscreener-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xobedient/dexscreener-sdk/issues"
+  },
+  "homepage": "https://github.com/0xobedient/dexscreener-sdk#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.0.4",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "axios": "^1.10.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
