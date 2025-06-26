@@ -1,6 +1,6 @@
 # 🚀 @0xobedient-DexScreener-SDK
 
-**Memetus-Pumpfun-SDK**
+**@0xobedient-DexScreener-SDK**
 
 > A Powerful Typescript SDK for the DexScreener API, Delivering effortless access to token information, market insights, and trading pairs across various blockchain networks in a structured and type-safe way.
 
