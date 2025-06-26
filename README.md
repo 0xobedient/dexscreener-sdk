@@ -12,13 +12,13 @@
 
 ## Features
 
-- ✅ Complete API Integration: Supports every endpoint provided by DexScreener
-- ✅ TypeScript First: Designed with TypeScript to ensure strong typing and better developer tooling
-- ✅ Modular Structure: Organized codebase with clear separation of concerns across API features
-- ✅ Detailed Type Definitions: Includes comprehensive and fully annotated data models for all responses
-- ✅ Async-Friendly: Fully supports async/await patterns with promise-based architecture
-- ✅ Minimal Dependencies: Relies solely on axios for HTTP requests, with no additional libraries
-- ✅ Open Source: Managed in public github repository
+- ✅ **Complete API Integration**: Supports every endpoint provided by DexScreener
+- ✅ **TypeScript First**: Designed with TypeScript to ensure strong typing and better developer tooling
+- ✅ **Modular Structure**: Organized codebase with clear separation of concerns across API features
+- ✅ **Detailed Type Definitions**: Includes comprehensive and fully annotated data models for all responses
+- ✅ **Async-Friendly**: Fully supports async/await patterns with promise-based architecture
+- ✅ **Minimal Dependencies**: Relies solely on axios for HTTP requests, with no additional libraries
+- ✅ **Open Source**: Managed in public github repository
 
 ---
 
